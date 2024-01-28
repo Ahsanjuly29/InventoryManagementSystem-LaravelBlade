@@ -41,7 +41,7 @@
         <aside class="menu-sidebar d-none d-lg-block">
             <div class="logo">
                 <a href="#">
-                    <img src="images/icon/logo.png" alt="Cool Admin" />
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_de_Free.png" alt="Admin Panel" />
                 </a>
             </div>
             <div class="menu-sidebar__content js-scrollbar1">
